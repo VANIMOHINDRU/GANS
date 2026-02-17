@@ -70,7 +70,7 @@ Kernel Density Estimation (KDE) applied
 Estimated PDF plotted and compared with real distribution
 
 # Results
-![GAN PDF](Screenshot 2026-02-17 215252.png)
+![GAN PDF](pdf.png)
 
 ✔ Mode Coverage
 Dominant mode captured successfully
